@@ -33,6 +33,22 @@ Industrial engineer specialized in artificial intelligence. Quick learner, adapt
 - Built and optimized deep learning models for medical image analysis to support cancer detection.
 
 ---
+## Projects
+
+### **Enhancing Image Retrieval Performance with Generative Models in Siamese Networks**  
+**[Code](https://github.com/cvblab/CBIR_SYNTHETIC_VIEWS)** | **[Publication](https://ieeexplore.ieee.org/abstract/document/10896802)**  
+![Project Image](path_to_image.jpg)  
+
+This research addresses the challenges of **prostate cancer diagnosis**, one of the most prevalent cancers among men worldwide.  
+We propose a **Siamese Network** approach to encode image patches into latent representations for **Content-Based Image Retrieval (CBIR)** tasks, leveraging **generative deep learning models** to improve retrieval quality.  
+
+Key highlights:
+- Introduced the **ProGleason-GAN** framework trained on the **SiCAPv2 dataset** for generating synthetic patches.  
+- Achieved **notable improvements** in retrieval metrics with synthetic data augmentation.  
+- First approach where **CBIR-optimized latent representations** are used to train an attention mechanism for **Gleason Scoring** of Whole Slide Images (WSI).  
+
+---
+
 
 ## Skills
 ### **Technical Skills**
