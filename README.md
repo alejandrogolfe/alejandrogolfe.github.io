@@ -39,7 +39,7 @@ Industrial engineer specialized in artificial intelligence. Quick learner, adapt
 
 **[Code](#)** | **[Publication](https://link.springer.com/chapter/10.1007/978-3-031-98688-8_15)**
 
-![Project Image](Methodology.pdf)
+![Project Image](Methodology.jpg)
 
 Accurately identifying oocytes that progress to the **blastocyst stage** is crucial in reproductive medicine.  
 We propose **BlastDiffusion**, a **generative model based on Latent Diffusion Models (LDMs)**, which synthesizes realistic oocyte images **conditioned on developmental outcomes**, addressing the challenges of limited annotated embryo datasets.
