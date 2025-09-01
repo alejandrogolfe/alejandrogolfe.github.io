@@ -44,7 +44,7 @@ Industrial engineer specialized in artificial intelligence. Quick learner, adapt
 Accurately identifying oocytes that progress to the **blastocyst stage** is crucial in reproductive medicine.  
 We propose **BlastDiffusion**, a **generative model based on Latent Diffusion Models (LDMs)**, which synthesizes realistic oocyte images **conditioned on developmental outcomes**, addressing the challenges of limited annotated embryo datasets.
 
-Key Highlights
+#### Key Highlights
 - Utilizes a **pretrained Variational Autoencoder (VAE)** for latent space representation combined with a diffusion process to generate realistic images.  
 - Produces synthetic images that differentiate **oocytes that reach the blastocyst stage** from those that do not.  
 - Achieves superior performance compared to GAN-based models
