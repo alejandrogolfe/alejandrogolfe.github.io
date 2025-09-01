@@ -71,7 +71,7 @@ Key highlights:
 
 **[Code](https://github.com/cvblab/ProGleason-GAN)** | **[Publication](https://www.sciencedirect.com/science/article/pii/S0169260723003607)**
 
-![Project Image](path_to_image.jpg)
+![Project Image](Methodology_CMPB.png)
 
 This research focuses on **prostate cancer**, one of the most common diseases affecting men worldwide.  
 We propose **ProGleason-GAN**, a **conditional Progressive Growing GAN** designed to **synthesize histopathological patches** of prostate tissue for **data augmentation**, addressing the challenges of **insufficient and unbalanced datasets** in Gleason grading models.
