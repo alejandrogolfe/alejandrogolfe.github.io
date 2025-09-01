@@ -49,6 +49,19 @@ Key highlights:
 
 ---
 
+# ProGleason-GAN: Conditional Progressive Growing GAN for Prostatic Cancer Gleason Grade Patch Synthesis
+
+[Code](https://github.com/cvblab/ProGleason-GAN) | [Publication]((https://www.sciencedirect.com/science/article/pii/S0169260723003607)
+
+![Project Image](path_to_image.jpg)
+
+This research focuses on **prostate cancer**, one of the most common diseases affecting men worldwide.  
+We propose **ProGleason-GAN**, a **conditional Progressive Growing GAN** designed to **synthesize histopathological patches** of prostate tissue for **data augmentation**, addressing the challenges of **insufficient and unbalanced datasets** in Gleason grading models.
+
+## Key Highlights
+- Conditional GAN architecture capable of generating patches for **non-cancerous patterns, GG3, GG4, and GG5** by embedding Gleason grade information.
+- External validation performed by **expert pathologists** confirmed the realism of the synthetic samples.  
+- Significant improvement in **classification performance** on the **SiCAPv2 dataset** with synthetic data augmentation.
 
 ## Skills
 ### **Technical Skills**
