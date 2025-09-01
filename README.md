@@ -37,7 +37,7 @@ Industrial engineer specialized in artificial intelligence. Quick learner, adapt
 
 ### BlastDiffusion: A Latent Diffusion Model for Generating Synthetic Embryo Images to Address Data Scarcity in In Vitro Fertilization
 
-**[Code](#) | **[Publication](https://link.springer.com/chapter/10.1007/978-3-031-98688-8_15)
+**[Code](#)** | **[Publication](https://link.springer.com/chapter/10.1007/978-3-031-98688-8_15)**
 
 ![Project Image](path_to_image.jpg)
 
@@ -69,7 +69,7 @@ Key highlights:
 
 ### ProGleason-GAN: Conditional Progressive Growing GAN for Prostatic Cancer Gleason Grade Patch Synthesis
 
-**[Code](https://github.com/cvblab/ProGleason-GAN) | **[Publication](https://www.sciencedirect.com/science/article/pii/S0169260723003607)
+**[Code](https://github.com/cvblab/ProGleason-GAN)** | **[Publication](https://www.sciencedirect.com/science/article/pii/S0169260723003607)**
 
 ![Project Image](path_to_image.jpg)
 
