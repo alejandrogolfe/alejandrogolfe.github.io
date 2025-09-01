@@ -55,7 +55,7 @@ We propose **BlastDiffusion**, a **generative model based on Latent Diffusion Mo
 ### **Enhancing Image Retrieval Performance with Generative Models in Siamese Networks**  
 **[Code](https://github.com/cvblab/CBIR_SYNTHETIC_VIEWS)** | **[Publication](https://ieeexplore.ieee.org/abstract/document/10896802)**  
 
-![Project Image](path_to_image.jpg)  
+![Project Image](Methodology_JBHI.jpg)  
 
 This research addresses the challenges of **prostate cancer diagnosis**, one of the most prevalent cancers among men worldwide.  
 We propose a **Siamese Network** approach to encode image patches into latent representations for **Content-Based Image Retrieval (CBIR)** tasks, leveraging **generative deep learning models** to improve retrieval quality.  
