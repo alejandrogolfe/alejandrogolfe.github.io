@@ -60,7 +60,7 @@ We propose **BlastDiffusion**, a **generative model based on Latent Diffusion Mo
 This research addresses the challenges of **prostate cancer diagnosis**, one of the most prevalent cancers among men worldwide.  
 We propose a **Siamese Network** approach to encode image patches into latent representations for **Content-Based Image Retrieval (CBIR)** tasks, leveraging **generative deep learning models** to improve retrieval quality.  
 
-Key highlights:
+#### Key Highlights
 - Leveraging the **ProGleason-GAN** framework trained on the **SiCAPv2 dataset** for generating synthetic patches.  
 - Achieved **notable improvements** in retrieval metrics with synthetic data augmentation.  
 - First approach where **CBIR-optimized latent representations** are used to train an attention mechanism for **Gleason Scoring** of Whole Slide Images (WSI).  
@@ -76,7 +76,7 @@ Key highlights:
 This research focuses on **prostate cancer**, one of the most common diseases affecting men worldwide.  
 We propose **ProGleason-GAN**, a **conditional Progressive Growing GAN** designed to **synthesize histopathological patches** of prostate tissue for **data augmentation**, addressing the challenges of **insufficient and unbalanced datasets** in Gleason grading models.
 
-Key Highlights
+#### Key Highlights
 - Conditional GAN architecture capable of generating patches for **non-cancerous patterns, GG3, GG4, and GG5** by embedding Gleason grade information.
 - External validation performed by **expert pathologists** confirmed the realism of the synthetic samples.  
 - Significant improvement in **classification performance** on the **SiCAPv2 dataset** with synthetic data augmentation.
