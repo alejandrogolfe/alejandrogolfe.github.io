@@ -84,7 +84,7 @@ We propose **ProGleason-GAN**, a **conditional Progressive Growing GAN** designe
 ## Skills
 ### **Technical Skills**
 - **Programming & Frameworks:** Python, PyTorch, TensorFlow, Hugging Face, OpenCV, NumPy, Pandas  
-- **Generative AI:** GANs, Diffusion Models, Transformers, LLMs  
+- **Generative AI:** GANs, Diffusion Models, Transformers
 - **Computer Vision & CBIR:** Image retrieval, object detection, segmentation, multimodal data processing  
 - **ML Engineering & Pipelines:** Data preprocessing, model training, hyperparameter tuning, GPU/TPU optimization  
 - **Research & Evaluation:** Model metrics, fine-tuning, transfer learning  
